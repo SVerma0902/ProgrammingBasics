@@ -3,7 +3,7 @@
 namespace Programming
 {
     //2. Write a program to find maximum between three numbers.
-    internal class Class1
+    internal class Max_three_nos
     {
         static void Main(string[] args)
         {
